@@ -1,0 +1,9 @@
+[
+  {
+    "id": "2026-03-24-welcome",
+    "title": "Welcome to Chirp!",
+    "body": "Thanks for trying the beta. We'd love your feedback — hit Send Feedback in Settings.",
+    "minVersion": "1.0.0",
+    "maxVersion": null
+  }
+]
