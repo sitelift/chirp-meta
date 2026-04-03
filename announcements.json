@@ -4,6 +4,6 @@
     "title": "Update Available",
     "body": "Thanks for the feedback, we just shipped several bug fixes and quality of life improvements. Please check for updates.",
     "minVersion": "1.0.0",
-    "maxVersion": null
+    "maxVersion": "1.2.5"
   }
 ]
