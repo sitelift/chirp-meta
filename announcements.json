@@ -1,6 +1,6 @@
 [
   {
-    "id": "2026-04-2-welcome",
+    "id": "2026-04-2-update",
     "title": "Update Available",
     "body": "Thanks for the feedback, we just shipped several bug fixes and quality of life improvements. Please check for updates.",
     "minVersion": "1.0.0",
